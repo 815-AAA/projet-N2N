@@ -1,54 +1,50 @@
-```
-Passons à la relation Agent. Ce type de relation implique que le terme A est la nominalisation d’une action dont l’acteur est le terme B, par exemple "le travail de l’ouvrier" ou bien "le cours du professeur".
-```
-
-- Le travail de l'ouvrier
-- Le cours du professeur
-- Le chant de la cantatrice
-- La décision du juge
-- L'intervention du médecin
-- La réponse de l'élève
-- L'attaque du joueur
-- La plaidoirie de l'avocat
-- Le discours du président
-- Le vol de l'oiseau
-- Le rugissement du lion
-- La fuite du voleur
-- Le miaulement du chat
-- L'enquête du policier
-- Le diagnostic du docteur
-- La protestation du manifestant
-- Le rire de l'enfant
-- La promenade du retraité
-- La signature du ministre
-- Le saut de l'athlète
-- La démonstration du chercheur
-- Le cri du bébé
-- La ruse du renard
-- Le grognement du chien
-- La manœuvre du pilote
-- La frappe du footballeur
-- Le voyage du marchand
-- Le mensonge du témoin
-- L'arrivée du train
-- Le départ des voyageurs
-- La réaction du public
-- Le conseil de l'expert
-- L'accusation de la victime
-- La menace de l'agresseur
-- La plainte du voisin
-- La course du marathonien
-- L'explication du guide
-- La danse de la ballerine
-- La grimace du comédien
-- La ricanerie du clown
-- Le sermon du prêtre
-- Le tracé de l'architecte
-- L'arrêt du gardien
-- La confession du suspect
-- La nage du dauphin
-- Le sifflement du canari
-- L'interrogation de l'examinateur
-- Le passage du facteur
-- Le combat du gladiateur
-- L'erreur du débutant
+Le travail de l'ouvrier
+Le cours du professeur
+Le chant de la cantatrice
+La décision du juge
+L'intervention du médecin
+La réponse de l'élève
+L'attaque du joueur
+La plaidoirie de l'avocat
+Le discours du président
+Le vol de l'oiseau
+Le rugissement du lion
+La fuite du voleur
+Le miaulement du chat
+L'enquête du policier
+Le diagnostic du docteur
+La protestation du manifestant
+Le rire de l'enfant
+La promenade du retraité
+La signature du ministre
+Le saut de l'athlète
+La démonstration du chercheur
+Le cri du bébé
+La ruse du renard
+Le grognement du chien
+La manœuvre du pilote
+La frappe du footballeur
+Le voyage du marchand
+Le mensonge du témoin
+L'arrivée du train
+Le départ des voyageurs
+La réaction du public
+Le conseil de l'expert
+L'accusation de la victime
+La menace de l'agresseur
+La plainte du voisin
+La course du marathonien
+L'explication du guide
+La danse de la ballerine
+La grimace du comédien
+La ricanerie du clown
+Le sermon du prêtre
+Le tracé de l'architecte
+L'arrêt du gardien
+La confession du suspect
+La nage du dauphin
+Le sifflement du canari
+L'interrogation de l'examinateur
+Le passage du facteur
+Le combat du gladiateur
+L'erreur du débutant

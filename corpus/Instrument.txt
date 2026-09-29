@@ -1,53 +1,50 @@
-```
-Passons à la relation Instrument. Ce type de relation implique que le terme A est instrument de l’action B ou d’une action que le terme B subit, par exemple "la clé de la porte".
-```
-- La clé de la porte
-- Le manche du marteau
-- Le pinceau du peintre
-- Le volant de la voiture
-- La télécommande de la télévision
-- Le frein du vélo
-- Le balai du sorcier
-- La ficelle du paquet
-- La batterie du téléphone
-- L'antenne de la radio
-- Le couteau du boucher
-- Le filtre du café
-- La prise du secteur
-- Le cordon de la veste
-- L'aiguille de la boussole
-- La télécommande du garage
-- Le râteau du jardinier
-- La manette de la console
-- La chaîne du vélo
-- La télécommande du climatiseur
-- Le filet du pêcheur
-- La gâchette du pistolet
-- L'étrier du cavalier
-- La craie du tableau
-- L'éponge de la ardoise
-- Le pneu du camion
-- La télécommande du portail
-- Le pilon du mortier
-- La spatule de la poêle
-- L'archet du violon
-- Le tournevis de la vis
-- La lame du rasoir
-- Le bouton de la sonnette
-- Le mât du bateau
-- Le levier de la machine
-- La pédale du piano
-- Le marteau du menuisier
-- La pince de la batterie
-- L'encre de l'imprimante
-- Le lacet de la chaussure
-- La bougie de la voiture
-- La clé du cadenas
-- La télécommande de l'alarme
-- Le médiator de la guitare
-- La mèche de la perceuse
-- La sangle du sac
-- La ficelle du cerf-volant
-- L'essuie-glace de la voiture
-- Le filet du joueur
-- La brosse du tableau
+La clé de la porte
+Le manche du marteau
+Le pinceau du peintre
+Le volant de la voiture
+La télécommande de la télévision
+Le frein du vélo
+Le balai du sorcier
+La ficelle du paquet
+La batterie du téléphone
+L'antenne de la radio
+Le couteau du boucher
+Le filtre du café
+La prise du secteur
+Le cordon de la veste
+L'aiguille de la boussole
+La télécommande du garage
+Le râteau du jardinier
+La manette de la console
+La chaîne du vélo
+La télécommande du climatiseur
+Le filet du pêcheur
+La gâchette du pistolet
+L'étrier du cavalier
+La craie du tableau
+L'éponge de la ardoise
+Le pneu du camion
+La télécommande du portail
+Le pilon du mortier
+La spatule de la poêle
+L'archet du violon
+Le tournevis de la vis
+La lame du rasoir
+Le bouton de la sonnette
+Le mât du bateau
+Le levier de la machine
+La pédale du piano
+Le marteau du menuisier
+La pince de la batterie
+L'encre de l'imprimante
+Le lacet de la chaussure
+La bougie de la voiture
+La clé du cadenas
+La télécommande de l'alarme
+Le médiator de la guitare
+La mèche de la perceuse
+La sangle du sac
+La ficelle du cerf-volant
+L'essuie-glace de la voiture
+Le filet du joueur
+La brosse du tableau

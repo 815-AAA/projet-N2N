@@ -1,58 +1,50 @@
-```
-J'ai besoin de créer un corpus de cinquante expression pour un projet en traitement du langage naturel. On s'intéresse aux relations de type "N de N", prenons par exemple ces expressions : "la sagesse de vieillard", "un rêve d'enfants", "la cabane du bois", ... Ces relations se classe sous 15 différents types, mais pour l'instant on se concentrera sur un seul type de relation : la relation Possession (Po). Ce type de relation implique que le terme A est possédé par B, par exemple "le chien du voisin".
-
-Le corpus de cinquante expression servira à créer une sorte de classifieur binaire qui détermine si une expression donnée appartient ou non à ce type de relation.
-
-Propose moi un tel corpus qui contient uniquement des expressions dont le type de relation est Possession. Ce corpus prendre simplement la forme d'une liste à puce listant les expressions.
-```
-
-- La voiture de mon frère
-- Le manteau de la maîtresse
-- Le vélo du facteur
-- Le cahier de l'élève
-- La maison du maire
-- La clé du gardien
-- Le jardin des voisins
-- Le chien du voisin
-- Le bureau du directeur
-- La guitare du musicien
-- Le chapeau du grand-père
-- L'ordinateur du collègue
-- Le sac de la cliente
-- La boutique de l'artisan
-- Le téléphone d'Antoine
-- Le jouet du bébé
-- Le passeport du voyageur
-- La montre de mon père
-- Le tableau du peintre
-- Le champ du fermier
-- Le navire du capitaine
-- La chambre de Sophie
-- Le dossier de l'avocat
-- Les lunettes du professeur
-- Le violon du virtuose
-- Le camion de l'artisan
-- Le portefeuille du passant
-- La bicyclette de la voisine
-- La ferme de mon oncle
-- L'atelier du sculpteur
-- Le chat du concierge
-- Le sceptre du roi
-- Le costume de l'acteur
-- La sacoche du livreur
-- La villa du ministre
-- Le stylo du journaliste
-- Le trône de la reine
-- La couronne du monarque
-- La canne du vieillard
-- Le cartable de l'enfant
-- La valise du passager
-- Le bateau du pêcheur
-- Le domaine du comte
-- Le miroir de la princesse
-- Le cabinet du médecin
-- Le sabre du samouraï
-- La trousse de l'écolier
-- Le cheval du cavalier
-- Le violoncelle de l'artiste
-- La boutique du boulanger
+La voiture de mon frère
+Le manteau de la maîtresse
+Le vélo du facteur
+Le cahier de l'élève
+La maison du maire
+La clé du gardien
+Le jardin des voisins
+Le chien du voisin
+Le bureau du directeur
+La guitare du musicien
+Le chapeau du grand-père
+L'ordinateur du collègue
+Le sac de la cliente
+La boutique de l'artisan
+Le téléphone d'Antoine
+Le jouet du bébé
+Le passeport du voyageur
+La montre de mon père
+Le tableau du peintre
+Le champ du fermier
+Le navire du capitaine
+La chambre de Sophie
+Le dossier de l'avocat
+Les lunettes du professeur
+Le violon du virtuose
+Le camion de l'artisan
+Le portefeuille du passant
+La bicyclette de la voisine
+La ferme de mon oncle
+L'atelier du sculpteur
+Le chat du concierge
+Le sceptre du roi
+Le costume de l'acteur
+La sacoche du livreur
+La villa du ministre
+Le stylo du journaliste
+Le trône de la reine
+La couronne du monarque
+La canne du vieillard
+Le cartable de l'enfant
+La valise du passager
+Le bateau du pêcheur
+Le domaine du comte
+Le miroir de la princesse
+Le cabinet du médecin
+Le sabre du samouraï
+La trousse de l'écolier
+Le cheval du cavalier
+Le violoncelle de l'artiste
+La boutique du boulanger
