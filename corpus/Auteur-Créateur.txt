@@ -1,0 +1,55 @@
+
+```
+Passons à la relation Auteur/Créateur. Ce type de relation implique que le terme est produit par le terme B, par exemple "le tableau de Van Gogh" ou bien "le gâteau du pâtissier".
+```
+
+- Le tableau de Van Gogh
+- Le gâteau du pâtissier
+- Le roman de Hugo
+- La symphonie de Beethoven
+- Le film de Spielberg
+- La sculpture de Rodin
+- Le poème de Baudelaire
+- L'invention d'Edison
+- La chanson de Brel
+- La pièce de Molière
+- Le plan de l'architecte
+- L'éditorial du journaliste
+- Le dessin de l'enfant
+- La recette du chef
+- Le discours du rédacteur
+- La comédie de Shakespeare
+- Le croquis du dessinateur
+- L'opéra de Mozart
+- Le portrait du photographe
+- Le meuble du hussard
+- La fresque de Michel-Ange
+- Le scénario du cinéaste
+- Le plat de la cuisinière
+- La maquette du designer
+- La statue de Camille Claudel
+- L'article du chercheur
+- Le morceau du compositeur
+- La chorégraphie du danseur
+- La tapisserie de l'artisan
+- Le vase du potier
+- Le testament du notaire
+- La sérénade du troubadour
+- Le pamphlet du polémiste
+- La caricature du satiriste
+- Le modèle du couturier
+- La toile du peintre
+- Le manga du mangaka
+- La BD du caricaturiste
+- La partition du musicien
+- La fable de La Fontaine
+- Le rapport de l'expert
+- La robe du créateur
+- Le brevet de l'inventeur
+- La théorie d'Einstein
+- La miniature de l'enlumineur
+- Le manuscrit de l'écrivain
+- La gravure de l'artiste
+- Le sonnet de Ronsard
+- L'enluminure du moine
+- La mélodie du troubadour

@@ -1,0 +1,54 @@
+```
+Passons à la relation Quantification. Ce type de relation implique que le terme A sert de mesure au terme B, par exemple "Le brin d'herbe" ou bien "la minute de silence".
+```
+
+- Le brin d'herbe
+- La minute de silence
+- Le verre d'eau
+- La goutte d'eau
+- La tranche de pain
+- La poignée de riz
+- Le grain de sable
+- Le paquet de gâteaux
+- La tasse de café
+- Le morceau de sucre
+- La cuillère de miel
+- La bouteille de vin
+- Le pincée de sel
+- La rondelle de citron
+- Le bol de soupe
+- La feuille de papier
+- La goutte de pluie
+- Le sac de farine
+- La tablette de chocolat
+- Le rayon de soleil
+- La part de gâteau
+- Le brin de muguet
+- L'assiette de pâtes
+- Le kilomètre de course
+- La bouffée d'air
+- ~~Le souffle de vent~~
+- La brique de lait
+- ~~La boîte de conserve~~
+- ~~Le paquet de café~~
+- La cuillerée de sirop
+- La tranche de jambon
+- Le cube de fromage
+- La paillette d'or
+- Le pot de confiture
+- La grappe de raisins
+- Le touffat d'herbe
+- ~~La conserve de tomates~~
+- La goutte de lait
+- Le grain de riz
+- La pincée de poivre
+- Le brin de paille
+- ~~La barquette de fraises~~
+- Le bidon d'essence
+- La carafe d'eau
+- La canette de soda
+- La motte de beurre
+- La pelletée de terre
+- La goutte de sang
+- La bouchée de pain
+- Le flacon de parfum

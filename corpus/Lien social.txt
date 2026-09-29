@@ -1,0 +1,53 @@
+```
+Passons à la relation Lien social. Ce type de relation implique que le terme A tient un rôle de A vis-à-vis du terme B, par exemple "Le chef du groupe".
+```
+- Le chef du groupe
+- Le roi du pays
+- Le maire de la ville
+- Le capitaine de l'équipe
+- Le directeur de l'entreprise
+- Le président du club
+- Le père de l'enfant
+- La mère de la famille
+- Le professeur de l'élève
+- L'ami du voisin
+- Le patron de l'employé
+- Le tuteur de l'orphelin
+- Le guide du groupe
+- Le parrain du bébé
+- Le mentor du jeune
+- La sœur du collègue
+- Le mari de la ministre
+- Le rival du champion
+- Le complice du voleur
+- Le coach du sportif
+- Le commandant du navire
+- Le vicaire du village
+- Le médecin du patient
+- Le conseiller du prince
+- Le lieutenant du capitaine
+- Le frère du député
+- L'avocat de l'accusé
+- Le curé de la paroisse
+- La femme du boulanger
+- Le partenaire du joueur
+- Le souverain du royaume
+- Le responsable du projet
+- Le doyen de la faculté
+- Le beau-père de l'adolescent
+- Le chef de l'opposition
+- L'oncle du cousin
+- Le gérant de la société
+- Le berger du troupeau
+- Le supérieur de l'agent
+- Le fiancé de la princesse
+- Le gendre du propriétaire
+- L'allié de la nation
+- Le prédécesseur du ministre
+- Le leader du mouvement
+- La marraine du neveu
+- Le successeur du directeur
+- Le cousin de la voisine
+- Le gardien du prisonnier
+- Le maître de l'apprenti
+- Le représentant du personnel

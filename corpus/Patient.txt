@@ -1,0 +1,54 @@
+```
+Passons à la relation Patient. Ce type de relation implique que le  terme A est la nominalisation d’une action que le terme B subit, par exemple "le travail du bois" ou bien "l'ouverture de la porte".
+```
+
+- Le travail du bois
+- L'ouverture de la porte
+- La réparation du vélo
+- La vente de la maison
+- L'arrestation du voleur
+- La lecture du livre
+- Le nettoyage du sol
+- La taille de la haie
+- L'évacuation du bâtiment
+- Le brossage des dents
+- La fermeture du magasin
+- Le repassage du linge
+- La destruction du pont
+- L'examen de l'élève
+- Le traitement du patient
+- La traduction du texte
+- L'abattage de l'arbre
+- Le vol des bijoux
+- La cuisson du poulet
+- La correction de la copie
+- Le lavage de la voiture
+- L'interrogatoire du suspect
+- La récolte du blé
+- L'arrosage des plantes
+- Le rangement de la chambre
+- La démolition de l'immeuble
+- L'analyse du sang
+- Le chargement du camion
+- La rénovation de l'appartement
+- La signature du contrat
+- La coupe de cheveux
+- L'extinction du feu
+- Le démontage du moteur
+- La pesée du paquet
+- La consommation d'eau
+- Le recyclage du plastique
+- La capture de l'animal
+- L'écoute de la musique
+- La tonte de la pelouse
+- Le ramassage des ordures
+- La réparation de la fuite
+- L'envoi du courrier
+- L'apprentissage de la leçon
+- Le polissage de la pierre
+- L'effacement du tableau
+- Le pliage du papier
+- La pesée des ingrédients
+- La fouille du sac
+- L'aspiration du tapis
+- Le découpage du carton
